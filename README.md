@@ -152,10 +152,7 @@ Use tools like:
 - Python HTTP server  
 - Node-based static server  
 
-Example:
 
-```bash
-python -m http.server 8080
 
 ## ■ Deployment
 
